@@ -1,2 +1,2 @@
-var msg = 'Hola Mundo JavaScript v1.0';
+var msg = 'Hola Mundo JavaScript v2.0';
 console.log(msg);
